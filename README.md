@@ -14,8 +14,6 @@
 
 ### 🛠️ Current Projects
 - 🎉 Building my sister’s wedding website (a full custom static site, no frameworks)
-- 🎞️ Creating cinematic fan edits with **DaVinci Resolve**
-- 📚 Slowly working through all 8 *Witcher* books (UK covers, no Netflix branding 😌)
 
 ---
 
