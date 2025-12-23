@@ -13,7 +13,8 @@
 ---
 
 ### 🛠️ Current Projects
-- 🎉 Building my sister’s wedding website (a full custom static site, no frameworks)
+- 🎉 Building a guesthouse booking system using the MERN (MongoDB, Express, React,
+and Node.js) stack.
 
 ---
 
